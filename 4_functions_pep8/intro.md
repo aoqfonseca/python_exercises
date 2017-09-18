@@ -3,3 +3,8 @@
 Em python temos algumas convenções de como escrever o código, espaçamentos, nome de variáveis, etc.  Isso é algo que a comunidade segue a risca e gosta que sejam feitas, tendo inclusive, várias utilitários que validam essas questões. 
 
 Como já deve ter sido dito, existe o jeito "pythonico" de fazer as coisas. E isso será bastante cobrado para quem quiser programa em python. 
+
+
+#Funções
+
+Funções em python são coisas bem interessantes. Eles são cidadoes de primeira classe e assim como objetos, elas podem conter, atributos, por exemplo. 

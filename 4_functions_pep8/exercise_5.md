@@ -11,6 +11,8 @@
     * jovem: maiores de 13 e menor de 21 anos
     * adulto: maiores de 21 anos
 
-[1,2,33,44,34,21,12,13,8, 9, 55, 78, 34]
+lista_de_idades = [1,2,33,44,34,21,12,13,8,9,55,78,34]
 
- 
+
+
+
