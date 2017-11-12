@@ -4,3 +4,4 @@
 * Leia o arquivo names.csv e imprima na tela o nome das pessoas que são menores de 20 anos
 * Leia o arquivo names.csv e gere um novo arquivo com as entradas das pessoas que são menores que 20 anos
 * Escrever um programa que imprime na tela o quadrado dos números menos que 100 
+* Desafio: Implementar um busca no google pela linha de comando.
